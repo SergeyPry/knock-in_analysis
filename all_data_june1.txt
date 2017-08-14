@@ -1,0 +1,109 @@
+Knock-in,Orientation,Category,Percentage
+R143H,anti,del - no HDR,30.5115
+R143H,anti,ins - no HDR,7.4982
+R143H,anti,correct HDR,2.0054
+R143H,anti,del - HDR,0.0106
+R143H,anti,ins - HDR,0.0058
+R143H,anti,unmapped - HDR,0.0440
+R143H,anti,unmapped - wt,0.0695
+R143H,anti,unmapped - other,0.8486
+R143H,anti,wild-type,59.0064
+R143H,anti,del - no HDR,26.4683
+R143H,anti,ins - no HDR,6.0629
+R143H,anti,correct HDR,1.5563
+R143H,anti,del - HDR,0.0036
+R143H,anti,ins - HDR,0.0157
+R143H,anti,unmapped - HDR,0.0120
+R143H,anti,unmapped - wt,0.0581
+R143H,anti,unmapped - other,0.7622
+R143H,anti,wild-type,65.0610
+R143H,anti,del - no HDR,33.2122
+R143H,anti,ins - no HDR,7.6261
+R143H,anti,correct HDR,2.0308
+R143H,anti,del - HDR,0.0381
+R143H,anti,ins - HDR,0.0036
+R143H,anti,unmapped - HDR,0.0324
+R143H,anti,unmapped - wt,0.0443
+R143H,anti,unmapped - other,1.7442
+R143H,anti,wild-type,55.2683
+R143H,sense,del - no HDR,39.2471
+R143H,sense,ins - no HDR,8.5474
+R143H,sense,correct HDR,0.7378
+R143H,sense,del - HDR,0.0291
+R143H,sense,ins - HDR,0.0330
+R143H,sense,unmapped - HDR,0.0060
+R143H,sense,unmapped - wt,0.1234
+R143H,sense,unmapped - other,1.8654
+R143H,sense,wild-type,49.4109
+R143H,sense,del - no HDR,38.7720
+R143H,sense,ins - no HDR,8.7435
+R143H,sense,correct HDR,0.8840
+R143H,sense,del - HDR,0.0534
+R143H,sense,ins - HDR,0.0048
+R143H,sense,unmapped - HDR,0.0050
+R143H,sense,unmapped - wt,0.1693
+R143H,sense,unmapped - other,1.9294
+R143H,sense,wild-type,49.4385
+R143H,sense,del - no HDR,40.8384
+R143H,sense,ins - no HDR,9.6188
+R143H,sense,correct HDR,0.7729
+R143H,sense,del - HDR,0.5976
+R143H,sense,ins - HDR,0.0349
+R143H,sense,unmapped - HDR,0.0124
+R143H,sense,unmapped - wt,0.6684
+R143H,sense,unmapped - other,2.2187
+R143H,sense,wild-type,45.2381
+R217H,anti,del - no HDR,42.025
+R217H,anti,ins - no HDR,11.782
+R217H,anti,correct HDR,1.922
+R217H,anti,del - HDR,0.098
+R217H,anti,ins - HDR,0.137
+R217H,anti,unmapped - HDR,0.041
+R217H,anti,unmapped - wt,0.042
+R217H,anti,unmapped - other,1.293
+R217H,anti,wild-type,42.659
+R217H,anti,del - no HDR,34.314
+R217H,anti,ins - no HDR,8.475
+R217H,anti,correct HDR,3.177
+R217H,anti,del - HDR,0.183
+R217H,anti,ins - HDR,0.096
+R217H,anti,unmapped - HDR,0.045
+R217H,anti,unmapped - wt,0.283
+R217H,anti,unmapped - other,0.504
+R217H,anti,wild-type,52.924
+R217H,anti,del - no HDR,37.846
+R217H,anti,ins - no HDR,7.508
+R217H,anti,correct HDR,1.599
+R217H,anti,del - HDR,0.054
+R217H,anti,ins - HDR,0.424
+R217H,anti,unmapped - HDR,0.017
+R217H,anti,unmapped - wt,0.026
+R217H,anti,unmapped - other,0.467
+R217H,anti,wild-type,52.060
+R217H,sense,del - no HDR,25.842
+R217H,sense,ins - no HDR,4.952
+R217H,sense,correct HDR,0.202
+R217H,sense,del - HDR,0.007
+R217H,sense,ins - HDR,0.026
+R217H,sense,unmapped - HDR,0.005
+R217H,sense,unmapped - wt,0.019
+R217H,sense,unmapped - other,0.564
+R217H,sense,wild-type,68.382
+R217H,sense,del - no HDR,21.965
+R217H,sense,ins - no HDR,4.363
+R217H,sense,correct HDR,0.210
+R217H,sense,del - HDR,0.046
+R217H,sense,ins - HDR,0.019
+R217H,sense,unmapped - HDR,0.017
+R217H,sense,unmapped - wt,0.016
+R217H,sense,unmapped - other,0.505
+R217H,sense,wild-type,72.860
+R217H,sense,del - no HDR,26.873
+R217H,sense,ins - no HDR,5.492
+R217H,sense,correct HDR,0.222
+R217H,sense,del - HDR,0.048
+R217H,sense,ins - HDR,0.012
+R217H,sense,unmapped - HDR,0.022
+R217H,sense,unmapped - wt,0.017
+R217H,sense,unmapped - other,0.590
+R217H,sense,wild-type,66.725
